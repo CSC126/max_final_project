@@ -23,6 +23,7 @@ int main() {
     ofstream fout;
     
     fin.open("gradesIn.txt");
+    fout.open("gradesOut1.txt");
     
     while (!fin.eof()){
         
