@@ -26,6 +26,7 @@
 		A2263B092837366000DE6A7F /* gradesOut1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gradesOut1.txt; sourceTree = "<group>"; };
 		A2263B0A28373E3E00DE6A7F /* gradesOut2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gradesOut2.txt; sourceTree = "<group>"; };
 		A2263B0B28374E7100DE6A7F /* gradesIn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gradesIn.txt; sourceTree = "<group>"; };
+		A2263B0C28374EDE00DE6A7F /* final_project_cover.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = final_project_cover.pdf; sourceTree = "<group>"; };
 		A2DB07D52820600600FB2C6E /* max_final_project */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = max_final_project; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2DB07D82820600600FB2C6E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +65,7 @@
 				A2263B092837366000DE6A7F /* gradesOut1.txt */,
 				A2263B0A28373E3E00DE6A7F /* gradesOut2.txt */,
 				A2263B0B28374E7100DE6A7F /* gradesIn.txt */,
+				A2263B0C28374EDE00DE6A7F /* final_project_cover.pdf */,
 			);
 			path = max_final_project;
 			sourceTree = "<group>";
