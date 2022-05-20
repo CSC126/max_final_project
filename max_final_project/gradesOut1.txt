@@ -1,0 +1,40 @@
+Donald, Trump
+Quiz Grade: 48.17
+Exam Grade: 76.75
+Lab Grade: 72.81
+Homework Grade: 89.50
+Final Exam Grade: 99.00
+Course Average: 78.59
+
+Franklin, Johnson
+Quiz Grade: 81.50
+Exam Grade: 89.75
+Lab Grade: 80.19
+Homework Grade: 78.71
+Final Exam Grade: 99.00
+Course Average: 88.82
+
+Lebron, James
+Quiz Grade: 23.50
+Exam Grade: 30.75
+Lab Grade: 46.69
+Homework Grade: 49.57
+Final Exam Grade: 10.00
+Course Average: 26.55
+
+Eric, Apple
+Quiz Grade: 58.83
+Exam Grade: 94.00
+Lab Grade: 43.50
+Homework Grade: 64.21
+Final Exam Grade: 97.00
+Course Average: 79.84
+
+Elon, Musk
+Quiz Grade: 99.83
+Exam Grade: 49.50
+Lab Grade: 99.75
+Homework Grade: 99.86
+Final Exam Grade: 99.50
+Course Average: 84.63
+

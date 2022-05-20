@@ -1,0 +1,22 @@
+Donald, Trump
+Course Average: 78.59
+Letter Grade: C
+
+Franklin, Johnson
+Course Average: 88.82
+Letter Grade: B
+
+Lebron, James
+Course Average: 26.55
+Letter Grade: F
+
+Eric, Apple
+Course Average: 79.84
+Letter Grade: C
+
+Elon, Musk
+Course Average: 84.63
+Letter Grade: B
+
+Total number of students in this class: 5
+Class Average: 71.68
